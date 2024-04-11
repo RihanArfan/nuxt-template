@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "vue.volar",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "vivaxy.vscode-conventional-commits",
+    "antfu.iconify",
+    "bradlc.vscode-tailwindcss",
+    "nuxtr.nuxtr-vscode"
+  ]
+}

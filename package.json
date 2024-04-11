@@ -10,7 +10,15 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/eslint": "^0.3.6",
+    "@nuxt/fonts": "^0.6.1",
+    "@nuxt/image": "^1.5.0",
+    "@tailwindcss/vite": "4.0.0-alpha.14",
+    "@vueuse/nuxt": "^10.9.0",
     "nuxt": "^3.11.2",
+    "nuxt-icon": "^0.6.10",
+    "prettier": "^3.2.5",
+    "tailwindcss": "4.0.0-alpha.14",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   }
